@@ -1,1 +1,1 @@
-instance_names = ["ala-grafana-test", "aws-dbviewer-prod"]  # Replace with your instance names
+instance_names = ["instance-1", "instance-2"]  # Replace with your instance names

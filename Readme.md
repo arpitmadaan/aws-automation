@@ -1,4 +1,4 @@
-# This repository has terraform code to create Backup Plans, Backup Rules, Backup Vault, IAM Role and Resource Assignment for backing up Ec2 instances and volumes attached to it on AWS. The list of instance names has to be given in instances.tfvars file
+## This repository has terraform code to create Backup Plans, Backup Rules, Backup Vault, IAM Role and Resource Assignment for backing up Ec2 instances and volumes attached to it on AWS. The list of instance names has to be given in instances.tfvars file
 ## Steps to Automate Terraform with Jenkins
 ### 1: Setup Jenkins and Terraform on Your Jenkins Server
 ### Ensure Jenkins is installed and configured with the necessary plugins, including the Terraform plugin. Also, ensure Terraform is installed on the Jenkins server.
